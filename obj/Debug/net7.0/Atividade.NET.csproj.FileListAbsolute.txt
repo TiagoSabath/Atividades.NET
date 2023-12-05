@@ -1,0 +1,14 @@
+C:\Users\tiagu\OneDrive\Área de Trabalho\Projetos\C#\Atividade.NET\bin\Debug\net7.0\Atividade.NET.exe
+C:\Users\tiagu\OneDrive\Área de Trabalho\Projetos\C#\Atividade.NET\bin\Debug\net7.0\Atividade.NET.deps.json
+C:\Users\tiagu\OneDrive\Área de Trabalho\Projetos\C#\Atividade.NET\bin\Debug\net7.0\Atividade.NET.runtimeconfig.json
+C:\Users\tiagu\OneDrive\Área de Trabalho\Projetos\C#\Atividade.NET\bin\Debug\net7.0\Atividade.NET.dll
+C:\Users\tiagu\OneDrive\Área de Trabalho\Projetos\C#\Atividade.NET\bin\Debug\net7.0\Atividade.NET.pdb
+C:\Users\tiagu\OneDrive\Área de Trabalho\Projetos\C#\Atividade.NET\obj\Debug\net7.0\Atividade.NET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tiagu\OneDrive\Área de Trabalho\Projetos\C#\Atividade.NET\obj\Debug\net7.0\Atividade.NET.AssemblyInfoInputs.cache
+C:\Users\tiagu\OneDrive\Área de Trabalho\Projetos\C#\Atividade.NET\obj\Debug\net7.0\Atividade.NET.AssemblyInfo.cs
+C:\Users\tiagu\OneDrive\Área de Trabalho\Projetos\C#\Atividade.NET\obj\Debug\net7.0\Atividade.NET.csproj.CoreCompileInputs.cache
+C:\Users\tiagu\OneDrive\Área de Trabalho\Projetos\C#\Atividade.NET\obj\Debug\net7.0\Atividade.NET.dll
+C:\Users\tiagu\OneDrive\Área de Trabalho\Projetos\C#\Atividade.NET\obj\Debug\net7.0\refint\Atividade.NET.dll
+C:\Users\tiagu\OneDrive\Área de Trabalho\Projetos\C#\Atividade.NET\obj\Debug\net7.0\Atividade.NET.pdb
+C:\Users\tiagu\OneDrive\Área de Trabalho\Projetos\C#\Atividade.NET\obj\Debug\net7.0\Atividade.NET.genruntimeconfig.cache
+C:\Users\tiagu\OneDrive\Área de Trabalho\Projetos\C#\Atividade.NET\obj\Debug\net7.0\ref\Atividade.NET.dll
